@@ -5,8 +5,8 @@ step 1) We need to download & install MySQL workbench.
 
 step 2) Learn SQL DDL, DML, DCL,TCL and DQL commands.
 
--- work on constraints, Operators like logical, assignement.
--- work like operator, wild card characters.
+-- work on constraints null, not null, unique, PK,FK, check, work on Operators like logical, assignement.
+-- work on like operator, wild card characters.
 
 step 3) work on string, number, mathematical function.
 
@@ -16,3 +16,10 @@ step 5) learn filter functions like where, having, group by, order by
 
 step 6) learn and prictice Joins, CTE, CFF,  Windows functions (Rank, rownum, dense rank, ntile, lead, lag) -.
 
+After done all those things above 
+
+we need to Draw a ERD diagram(EDR_HR_Schema.mwd)
+
+after that you create tables and insert data into the tables.
+
+you can work on your projects.
