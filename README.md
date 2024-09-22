@@ -5,6 +5,9 @@ step 1) We need to download & install MySQL workbench.
 
 step 2) Learn SQL DDL, DML, DCL,TCL and DQL commands.
 
+-- work on constraints, Operators like logical, assignement.
+-- work like operator, wild card characters.
+
 step 3) work on string, number, mathematical function.
 
 step 4) learn Aggregation and Practice Aggregation SUM, AVG, MIN, MAX, COUNT function.
