@@ -1,5 +1,5 @@
-"This project involves an HR database designed to manage employee records, departments, and address information. 
-The database supports various queries to retrieve and analyze HR-related data."
+This project involves an HR database designed to manage employee records, departments, and address information. 
+The database supports various queries to retrieve and analyze HR-related data.
 
 step 1) We need to download & install MySQL workbench.
 
